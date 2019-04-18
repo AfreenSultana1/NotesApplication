@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('commonui-pin-0.5.3-sources.jar'))
